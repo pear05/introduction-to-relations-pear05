@@ -4,7 +4,7 @@
 
 Follow the tutorial on elearning; written tutorial, under the DATABASE title. 
 
-What to complete
+**What to complete**
 
 Have created 3 tables
 
